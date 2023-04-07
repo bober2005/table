@@ -33,8 +33,27 @@ body {
 
 
 }
-.lorem-text{
-padding: 50px;
 
+.lorem-text {
+    border: 2px solid red;
+
+}
+
+
+
+.blok {
+    background-color: yellow;
+}
+
+.paragraph {
+margin-left: 40px;
+border: 5px solid black;
+}
+
+.child {}
+
+
+.center{
+margin: auto;
 
 }
